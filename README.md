@@ -3,7 +3,9 @@
 - React
 - Redux
 - Styled Components
--
+- Firebase
+- firebase-hooks
+- Material UI
 
 ### Setup
 
